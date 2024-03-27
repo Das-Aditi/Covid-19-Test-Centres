@@ -36,5 +36,5 @@ This mini project demonstrates the feasibility of implementing a specialized DBM
 
 ## Additional Notes:
 
-- This project is functions along with XAMPP Control Panel for database modifications .
+- This project uses XAMPP Control Panel for database modifications .
 
